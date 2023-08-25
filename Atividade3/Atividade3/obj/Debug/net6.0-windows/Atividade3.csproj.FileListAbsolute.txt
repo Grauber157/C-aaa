@@ -1,0 +1,17 @@
+C:\Users\aluno\source\repos\Atividade3\Atividade3\bin\Debug\net6.0-windows\Atividade3.exe
+C:\Users\aluno\source\repos\Atividade3\Atividade3\bin\Debug\net6.0-windows\Atividade3.deps.json
+C:\Users\aluno\source\repos\Atividade3\Atividade3\bin\Debug\net6.0-windows\Atividade3.runtimeconfig.json
+C:\Users\aluno\source\repos\Atividade3\Atividade3\bin\Debug\net6.0-windows\Atividade3.dll
+C:\Users\aluno\source\repos\Atividade3\Atividade3\bin\Debug\net6.0-windows\Atividade3.pdb
+C:\Users\aluno\source\repos\Atividade3\Atividade3\obj\Debug\net6.0-windows\Atividade3.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Atividade3\Atividade3\obj\Debug\net6.0-windows\Atividade3.Form1.resources
+C:\Users\aluno\source\repos\Atividade3\Atividade3\obj\Debug\net6.0-windows\Atividade3.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Atividade3\Atividade3\obj\Debug\net6.0-windows\Atividade3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\Atividade3\Atividade3\obj\Debug\net6.0-windows\Atividade3.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\Atividade3\Atividade3\obj\Debug\net6.0-windows\Atividade3.AssemblyInfo.cs
+C:\Users\aluno\source\repos\Atividade3\Atividade3\obj\Debug\net6.0-windows\Atividade3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Atividade3\Atividade3\obj\Debug\net6.0-windows\Atividade3.dll
+C:\Users\aluno\source\repos\Atividade3\Atividade3\obj\Debug\net6.0-windows\refint\Atividade3.dll
+C:\Users\aluno\source\repos\Atividade3\Atividade3\obj\Debug\net6.0-windows\Atividade3.pdb
+C:\Users\aluno\source\repos\Atividade3\Atividade3\obj\Debug\net6.0-windows\Atividade3.genruntimeconfig.cache
+C:\Users\aluno\source\repos\Atividade3\Atividade3\obj\Debug\net6.0-windows\ref\Atividade3.dll
